@@ -13,9 +13,9 @@ After that I started my very first Flutter app.
 
 I have to say that this is a very basic app. It has almost no state and basically displays some of the most common elements in a mobile app. But to have done it in just a couple of days, I think it's not bad at all.
 
-This week has been has been a little exhausting. But, nevertheless, I have really enjoyed this learning process. 
+This week has been has been a little exhausting. But, nevertheless, I have really enjoyed this journey.
 
-Even though I have spent many hours in front of my PC learning this new technology, now I felt a huge satisfaction.
+Even though I have spent many hours in front of my PC learning this new technology, now I feel a huge satisfaction seeing the results of this process.
 
 Hope you like it!
 
