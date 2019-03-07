@@ -9,7 +9,7 @@ I spent the first days learning the basic syntax of Dart, which is almost identi
 
 When I thought that I had a strong-enough basis of Dart, I started learning the structure of a Flutter app. I was surprised by its similarities with React. It's modular design using "widgets" and its declarative style makes it very easy to read and write.
 
-After that I started my very first Flutter app.
+After that, I started my very first Flutter app.
 
 I have to say that this is a very basic app. It has almost no state and basically displays some of the most common elements in a mobile app. But to have done it in just a couple of days, I think it's not bad at all.
 
