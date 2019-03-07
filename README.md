@@ -13,6 +13,7 @@ After that I started my very first Flutter app.
 
 I have to say that this is a very basic app. It has almost no state and it basically displays some of the most common elements in a mobile app. But to have done it in a couple of days, it's not bad at all.
 
+Hope you apreciate it!
 
 ## Getting Started
 
