@@ -11,7 +11,7 @@ When I thought that I had a strong-enough basis of Dart, I started learning the 
 
 After that I started my very first Flutter app.
 
-I have to say that this is a very basic app. It has almost no state and basically displays some of the most common elements in a mobile app. But to have done it in a couple of days, I think it's not bad at all.
+I have to say that this is a very basic app. It has almost no state and basically displays some of the most common elements in a mobile app. But to have done it in just a couple of days, I think it's not bad at all.
 
 This week has been has been a little exhausting. But, nevertheless, I have really enjoyed this learning process. 
 
